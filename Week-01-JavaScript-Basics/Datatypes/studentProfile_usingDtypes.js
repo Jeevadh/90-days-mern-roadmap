@@ -5,7 +5,7 @@ let studentProfile;
 studentProfile = {
     name: "Jeeva",
     age: 25,
-    city: "pondi",
+    city: "pondy",
     isEnrolled: true,
     mark: 92,
     average: 90,

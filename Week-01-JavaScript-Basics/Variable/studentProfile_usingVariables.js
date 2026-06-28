@@ -4,7 +4,7 @@ let studentProfile;
 studentProfile = {
     name: "Jeeva",
     age: 25,
-    city: "pondi",
+    city: "pondy",
     isEnrolled: true
 };
 studentProfile.age = 30; // updating the age property
@@ -13,7 +13,7 @@ function updateProfile() {
     const newstudentProfile = {
         name: "Yuvi",
         age: 30,
-        city: "pondi",
+        city: "pondy",
         isEnrolled: false
     };
     newstudentProfile.age = 22; // updating the age property
